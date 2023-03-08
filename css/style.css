@@ -1,0 +1,26 @@
+/* Created by: Ben Thomson
+* Created on: 03/08/2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-02-HTML-AreaPerRectangle
+*/
+
+body {
+  background-color: #99e2b4;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+}
+
+h1 {
+  background-color: rgb(3 102 102);
+  color: hsl(148deg 47% 68%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #88d4ab;
+  color: #036666;
+  padding: 10px;
+}
+
+
